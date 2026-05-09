@@ -12,7 +12,7 @@
 
 - 📫 **How to reach me:** You can drop me an email at **13hilda@gmail.com**.
 
-- ⚡ **Fun fact:** I'm a firm believer that any problem can be solved with enough coffee, a good book, happy dog and a clean line of code.
+- ⚡ **Fun fact:** I'm a firm believer that any problem can be solved with enough wine, a good book, happy dog and a clean line of code.
 
 ---
 *Building a multidisciplinary foundation, one commit at a time.* 🚀
