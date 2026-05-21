@@ -9,7 +9,7 @@
     * 🖥️ **Hardware:** Choosing the right GPU or PSU for a clean, high-performance PC build.
     * 🎮 Gaming: Testing the limits of my hardware with beautiful RPGs and relaxing with indie games.
     * 🐾 **Senior Dogs:** Best practices for caring for our elderly furry friends.
-* 📬 **How to reach me:** You can drop me an email at [13hilda@gmail.com](mailto:13hilda@gmail.com).
+      
 * ⚡ **Fun fact:** I'm a firm believer that any problem can be solved with enough wine, a good book, a happy dog, and a clean line of code.
 
 ---
